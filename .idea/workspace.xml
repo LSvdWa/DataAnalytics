@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f944c8f-d0b3-44f0-bee1-adf307dcafe9" name="Changes" comment="Pandas">
-      <change afterPath="$PROJECT_DIR$/PA1/mammographic_masses_data.csv" afterDir="false" />
+    <list default="true" id="0f944c8f-d0b3-44f0-bee1-adf307dcafe9" name="Changes" comment="Pandas + python 3.8">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PA1/PA1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PA1/PA1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     "Python.PA1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/school/Documents/GitHub/DataAnalytics/PA1",
     "node.js.detected.package.eslint": "true",
@@ -58,6 +60,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PA1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756822232906</updated>
       <workItem from="1756822235335" duration="1440000" />
-      <workItem from="1756884192839" duration="297000" />
+      <workItem from="1756884192839" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="Local interpreter">
       <option name="closed" value="true" />
@@ -100,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756884342569</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Pandas + python 3.8">
+      <option name="closed" value="true" />
+      <created>1756884663170</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1756884663170</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,7 +124,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Local interpreter" />
     <MESSAGE value="Pandas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pandas" />
+    <MESSAGE value="Pandas + python 3.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pandas + python 3.8" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataAnalytics$PA1.coverage" NAME="PA1 Coverage Results" MODIFIED="1756822332169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PA1" />
