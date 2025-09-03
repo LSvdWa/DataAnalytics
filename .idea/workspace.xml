@@ -4,32 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f944c8f-d0b3-44f0-bee1-adf307dcafe9" name="Changes" comment="Local interpreter">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0f944c8f-d0b3-44f0-bee1-adf307dcafe9" name="Changes" comment="Pandas">
+      <change afterPath="$PROJECT_DIR$/PA1/mammographic_masses_data.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "LSvdWa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LSvdWa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LSvdWa/DataAnalytics.git",
-    "accountId": "be47fc46-879e-4a33-b3d3-8a3bd87cba41"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LSvdWa/DataAnalytics.git&quot;,
+    &quot;accountId&quot;: &quot;be47fc46-879e-4a33-b3d3-8a3bd87cba41&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="329A5N3G8dfzUsK7dInAVXyS9I8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,6 +49,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/school/Documents/GitHub/DataAnalytics/PA1",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -66,6 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756822232906</updated>
       <workItem from="1756822235335" duration="1440000" />
+      <workItem from="1756884192839" duration="297000" />
     </task>
     <task id="LOCAL-00001" summary="Local interpreter">
       <option name="closed" value="true" />
@@ -83,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756822358601</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pandas">
+      <option name="closed" value="true" />
+      <created>1756884342569</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1756884342569</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,7 +108,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Local interpreter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Local interpreter" />
+    <MESSAGE value="Pandas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pandas" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DataAnalytics$PA1.coverage" NAME="PA1 Coverage Results" MODIFIED="1756822332169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PA1" />
