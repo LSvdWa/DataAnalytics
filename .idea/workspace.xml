@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f944c8f-d0b3-44f0-bee1-adf307dcafe9" name="Changes" comment="Grafiekje, maar nog een beetje problematisch&#10;Af:&#10;t/m 3.1&#10;&#10;to do:&#10;3.2&#10;4.1 - beginnetje gemaakt maar niet af&#10;4.2 - controlleren of grafiek klopt en labeling aanpassen">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PA1/PA1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PA1/PA1.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="0f944c8f-d0b3-44f0-bee1-adf307dcafe9" name="Changes" comment="Grafiekje, maar nog een beetje problematisch&#10;Af:&#10;t/m 3.1&#10;&#10;to do:&#10;3.2&#10;4.1 - beginnetje gemaakt maar niet af&#10;4.2 - controlleren of grafiek klopt en labeling aanpassen" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,6 +79,7 @@
       <updated>1756822232906</updated>
       <workItem from="1756822235335" duration="1440000" />
       <workItem from="1756884192839" duration="3230000" />
+      <workItem from="1757348114213" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="Local interpreter">
       <option name="closed" value="true" />
