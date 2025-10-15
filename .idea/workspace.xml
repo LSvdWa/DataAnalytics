@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f944c8f-d0b3-44f0-bee1-adf307dcafe9" name="Changes" comment="PA2 start">
-      <change afterPath="$PROJECT_DIR$/PA3/PA3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PA3/blood_transfusion.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PA4/PA4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PA4/PA4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +29,12 @@
     &quot;assignee&quot;: &quot;LSvdWa&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LSvdWa/DataAnalytics.git",
-    "accountId": "4b0bd667-badd-4be9-a6a7-bc1ad6a4946b"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LSvdWa/DataAnalytics.git&quot;,
+    &quot;accountId&quot;: &quot;4b0bd667-badd-4be9-a6a7-bc1ad6a4946b&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
